@@ -43,7 +43,7 @@ const roles = {
     'EMERALD III': 190,
     'EMERALD II': 195,
     'EMERALD I': 200,
-    'THE EMERALD': 205
+    'King': 205
 }
 
 export function before(m) {
