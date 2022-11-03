@@ -68,7 +68,7 @@ global.psaweria = '-'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '14084952742'
-global.nomorown = '6281260730830,6281372197701'
+global.nomorown = '6281260730830'
 global.namebot = 'Akio Bot'
 global.nameown = 'DikiXd'
 
