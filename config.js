@@ -71,8 +71,6 @@ global.nomorbot = '14084952742'
 global.nomorown = '6281260730830'
 global.namebot = 'Akio Bot'
 global.nameown = 'DikiXd'
-global.nomorown2 = '6281372197701'
-global.nameown2 = 'SiAndree'
 
 /*============== Github Thanks To ==============*/
 global.namagithub = '-' // nama github lu
