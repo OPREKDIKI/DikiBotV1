@@ -71,6 +71,8 @@ global.nomorbot = '14084952742'
 global.nomorown = '6281260730830'
 global.namebot = 'Akio Bot'
 global.nameown = 'DikiXd'
+global.nomorown2 = '621372197701'
+global.nameown2 = 'SiAndree'
 
 /*============== Github Thanks To ==============*/
 global.namagithub = '-' // nama github lu
@@ -637,7 +639,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = 'Okio Bot'
-global.stickauth = `By ©Okio Bot`
+global.stickauth = `©DikiXd`
 
 global.multiplier = 38 // The higher, The harder levelup
 
