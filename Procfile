@@ -1,2 +1,1 @@
-worker: node . --db 'mongodb+srv://DikiMonggoDb:
-NMas7OFeQ40kSPH2@dikimonggodb.pspatcd.mongodb.net/test'
+worker:  npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
