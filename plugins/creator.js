@@ -9,6 +9,7 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
   let teksnomor = `${htki} *OWNER* ${htka}
 ✦ @${nomorown.split`@`[0]} ✦
 ------- ${nameown} -------
+
 📮 *Note:*
 • Owner tidak menerima save contact
 • Owner berhak blockir tanpa alasan
@@ -35,15 +36,14 @@ ${htjava} *📷 ɪɴsᴛᴀɢʀᴀᴍ* : ${sig}
 ${htjava} *🐈 ɢɪᴛʜᴜʙ:* ${sgh}
 •·––––––––––––––––––––––––––·•
 `
-  let teks = 'Pilih Tod'
+  let teks = 'Pilih dibawah'
 const sections = [
    {
 	title: `${htjava} OWNER –––––––––·•`,
 	rows: [
 	{title: "📱 • Nomor Owner", rowId: ".owner nomor"},
 	{title: "📱 • Nomor Owner V2", rowId: ".whmods1"},
-	{title: "📱 • Nomor Owner V3", rowId: ".whmods4"},
-        {title: "📱 • Pengembang", rowId: ".whmods2"},
+	{title: "📱 • Pengembang", rowId: ".whmods2"},
 	{title: "📱 • Creator", rowId: ".whmods3"},
 	{title: "🎨 • Biodata", rowId: ".owner bio"},
 	{title: "🌎 • Script", rowId: ".sc"},
