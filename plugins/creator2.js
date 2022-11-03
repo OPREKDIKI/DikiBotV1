@@ -19,6 +19,12 @@ function E(I,Z){return P(Z-0x32b,I);}(function(I,Z){const l=I();function A(I,Z){
 
  //knp di enc? , biar kgk di rename deksripsi Developer nya, kalau untuk nomor nya bakal otomatis berubah pas kalian ubah di config.js
 }
+if (command == 'whmods4') {
+ let vcard = `BEGIN:VCARD\nVERSION:3.0\nN:WhatsApp;Owner V2 Akio Bot\nFN:Saya Owner Akio Bot WhatsApp, Md\nNICKNAME:👑 Owner Okio Bot V2\nORG:Andree\nTITLE:MODS\nitem1.TEL;waid=6281372197701:+62 813-7219-7701\nitem1.X-ABLabel:📞 Nomor Owner\nitem2.URL:-\nitem2.X-ABLabel:💬 More\nitem3.EMAIL;type=INTERNET: -\nitem3.X-ABLabel:💌 Mail Owner V2 Akio Bot\nitem4.ADR:;;🇮🇩 Indonesia;;;;\nitem4.X-ABADR:💬 More\nitem4.X-ABLabel:📍 Lokasi Saya\nBDAY;value=date:🔖 KEPO LU YAH\nEND:VCARD`
+const tag_own = await conn.sendMessage(m.chat, { contacts: { displayName: wm, contacts: [{ vcard }] }}, { quoted: fakes })
+let caption = `👋 Hai *${name} @${who.split("@")[0]}*, Nih Owner *${conn.user.name}* kak`
+    await conn.sendButton(m.chat, caption, author, null, [['🎀 Sapa Owner', 'Huuu']], m, { quoted: tag_own, mentions: conn.parseMention(caption) })
+}
 handler.help = ['whmods1', 'whmods2', 'whmods3']
 handler.tags = ['info']
 
