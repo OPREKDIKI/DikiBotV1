@@ -9,6 +9,10 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
   let teksnomor = `${htki} *OWNER* ${htka}
 ✦ @${nomorown.split`@`[0]} ✦
 ------- ${nameown} -------
+let nowner = `${nomorown2.split`@`[0]}@s.whatsapp.net`
+  let teksnomor = `${htki} *OWNER* ${htka}
+✦ @${nomorown2.split`@`[0]} ✦
+------- ${nameown2} -------
 
 📮 *Note:*
 • Owner tidak menerima save contact
@@ -36,15 +40,14 @@ ${htjava} *📷 ɪɴsᴛᴀɢʀᴀᴍ* : ${sig}
 ${htjava} *🐈 ɢɪᴛʜᴜʙ:* ${sgh}
 •·––––––––––––––––––––––––––·•
 `
-  let teks = 'Pilih dibawah kak ! o(〃＾▽＾〃)o'
+  let teks = 'Pilih Tod'
 const sections = [
    {
 	title: `${htjava} OWNER –––––––––·•`,
 	rows: [
 	{title: "📱 • Nomor Owner", rowId: ".owner nomor"},
 	{title: "📱 • Nomor Owner V2", rowId: ".whmods1"},
-	{title: "📱 • Pengembang", rowId: ".whmods2"},
-	{title: "📱 • Creator", rowId: ".whmods3"},
+	{title: "📱 • Nomor Owner V3", rowId: ".whmods2"},
 	{title: "🎨 • Biodata", rowId: ".owner bio"},
 	{title: "🌎 • Script", rowId: ".sc"},
 	]
