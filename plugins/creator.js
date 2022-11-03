@@ -48,6 +48,8 @@ const sections = [
 	{title: "📱 • Nomor Owner", rowId: ".owner nomor"},
 	{title: "📱 • Nomor Owner V2", rowId: ".whmods1"},
 	{title: "📱 • Nomor Owner V3", rowId: ".whmods4"},
+        {title: "📱 • Pengembang", rowId: ".whmods2"},
+	{title: "📱 • Creator", rowId: ".whmods3"},
 	{title: "🎨 • Biodata", rowId: ".owner bio"},
 	{title: "🌎 • Script", rowId: ".sc"},
 	]
