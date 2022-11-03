@@ -47,7 +47,7 @@ const sections = [
 	rows: [
 	{title: "📱 • Nomor Owner", rowId: ".owner nomor"},
 	{title: "📱 • Nomor Owner V2", rowId: ".whmods1"},
-	{title: "📱 • Nomor Owner V3", rowId: ".whmods2"},
+	{title: "📱 • Nomor Owner V3", rowId: ".whmods4"},
 	{title: "🎨 • Biodata", rowId: ".owner bio"},
 	{title: "🌎 • Script", rowId: ".sc"},
 	]
