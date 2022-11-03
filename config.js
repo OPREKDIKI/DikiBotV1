@@ -68,7 +68,7 @@ global.psaweria = '-'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '14084952742'
-global.nomorown = '6281260730830'
+global.nomorown = '6281260730830,6281372197701'
 global.namebot = 'Akio Bot'
 global.nameown = 'DikiXd'
 
@@ -86,7 +86,7 @@ global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182
 /*============== STAFF ==============*/
 global.owner = [
   ['6281260730830', 'DikiXd', true],
-  ['6281372197701', 'Andree', true],
+  ['6281372197701', 'Andre', true],
   ['-', 'ISI KALAU ADA', false],
   ['-', 'ISI KALAU ADA', false],
   ['-', 'ISI KALAU ADA', false]
@@ -637,7 +637,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = 'Okio Bot'
-global.stickauth = `©DikiXd`
+global.stickauth = `By ©Okio Bot`
 
 global.multiplier = 38 // The higher, The harder levelup
 
