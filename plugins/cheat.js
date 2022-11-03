@@ -7,7 +7,7 @@ let handler = async (m, { conn }) => {
         global.db.data.users[m.sender].${args[0]} = Infinity
         
 }
-handler.help = ['cheatowner']
+handler.help = ['cheat']
 handler.tags = ['owner,premium']
 handler.command = /^(cheat)$/i
 handler.owner = false
