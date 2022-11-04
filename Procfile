@@ -1,1 +1,1 @@
-worker: node . --db "mongodb+srv://AkioBot:8EJ837IZTNWmjmvY@cluster0.8qczknr.mongodb.net/test"
+worker: npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
