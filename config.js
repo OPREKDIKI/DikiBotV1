@@ -67,7 +67,7 @@ global.ppulsa2 = '081260730830' // kalau ada kartu lain isi aja
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '14084952742'
+global.nomorbot = '6283839167560'
 global.nomorown = '6281260730830,6281372197701,6289601401176'
 global.namebot = 'Akio Bot'
 global.nameown = '𝐃𝐢𝐤𝐢𝐳,Andre,𝐘𝐚𝐧𝐧'
