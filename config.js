@@ -68,9 +68,9 @@ global.psaweria = '-'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '14084952742'
-global.nomorown = '6281260730830,6281372197701'
+global.nomorown = '6281260730830,6281372197701,6289601401176'
 global.namebot = 'Akio Bot'
-global.nameown = 'DikiXd,Andre'
+global.nameown = '𝐃𝐢𝐤𝐢𝐳,Andre,𝐘𝐚𝐧𝐧'
 
 /*============== Github Thanks To ==============*/
 global.namagithub = '-' // nama github lu
@@ -85,9 +85,9 @@ global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281260730830', 'DikiXd', true],
-  ['6281372197701', 'Andre', true],
-  ['-', 'ISI KALAU ADA', false],
+  ['6281260730830', '𝐃𝐢𝐤𝐢𝐳', true],
+  ['6281372197701', '𝐀𝐧𝐝𝐫𝐞', true],
+  ['6289601401176', '𝐘𝐚𝐧𝐧', false],
   ['-', 'ISI KALAU ADA', false],
   ['-', 'ISI KALAU ADA', false]
     //Ganti jd nomormu sama Namamu
@@ -138,14 +138,14 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Akio Bot 」' //Main Watermark
+global.wm = '「 Akio Bot 」' //Main Watermark
 global.wm2 = 'DikiXd X Akio Bot'
 global.wm3 = '⫹⫺ Akio Bot '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
 global.titlebot = `⫹⫺ WhatsApp Bot | By Akio Bot`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ okio bot'
-global.author = '                「 Akio Bot  あ」'
+global.author = '「 𝐀𝐤𝐢𝐨 𝐁𝐨𝐭 あ」'
 
 /*Fake*/
 global.fsizedoc = '1'.repeat(10)
